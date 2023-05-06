@@ -30,5 +30,5 @@ The train and public 20% test set is in the Kaggle: [Tabular Regression with a M
 The train and public 20% test set is in the Kaggle: [Binary Classification with a Tabular Kidney Stone Prediction](https://www.kaggle.com/competitions/playground-series-s3e12). The best score we got was 0.86+ AUC in the private ranking for the whole test set. We provide our experiment overview and the simplified final code here. 
 
 ### Primary Workflow
-####1. Feature Engineering: selected by importance, feature construction
-####2. Strategy: 1. all Primary traditional machine learning models. 2. boosting 3. voting 4. stacking
+#### 1. Feature Engineering: selected by importance, feature construction
+#### 2. Strategy: 1. all Primary traditional machine learning models. 2. boosting 3. voting 4. stacking
